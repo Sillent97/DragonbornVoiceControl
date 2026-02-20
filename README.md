@@ -1,4 +1,4 @@
-# Dragonborn Voice Control (CommonLibSSE-NG) + Python Pipe Runtime
+# Dragonborn Voice Control
 
 Say It – Dragonborn Voice Control is an SKSE/CommonLibSSE-NG plugin for Skyrim SE/AE/VR that adds voice commands (dialogue start/close/selection, shouts, powers, spells, weapons, potions) via a local IPC-connected runtime. DVCRuntime is an embedded/isolated Python server using Vosk or faster-whisper for on-device speech recognition.
 
