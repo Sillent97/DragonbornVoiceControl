@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+numpy
+sounddevice
+pywin32
+keyboard
+rich
+pyinstaller==6.19.0
+pyinstaller-hooks-contrib==2026.0
+vosk
+torch==2.10.0+cu128
+torchaudio==2.10.0+cu128
+faster-whisper

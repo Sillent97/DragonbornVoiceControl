@@ -1,0 +1,76 @@
+*** Begin Patch
+*** Update File: bootloader/src/pyi_main.c
+@@
+ static int
+ _pyi_resolve_executable_win32(char *executable_filename)
+ {
+     wchar_t modulename_w[PYI_PATH_MAX];
++    wchar_t resolved_w[PYI_PATH_MAX];
++    const wchar_t *final_w = modulename_w;
++    int offset = 0;
+@@
+-    /* GetModuleFileNameW returns an absolute, fully qualified path */
++    /* GetModuleFileNameW returns an absolute, fully qualified path (may be VFS path under USVFS/MO2) */
+     if (!GetModuleFileNameW(NULL, modulename_w, PYI_PATH_MAX)) {
+         PYI_WINERROR_W(L"GetModuleFileNameW", L"Failed to obtain executable path.\n");
+         return -1;
+     }
++
++    /* Resolve real path by handle (bypasses USVFS path virtualization) */
++    {
++        HANDLE h = CreateFileW(modulename_w, 0,
++            FILE_SHARE_READ | FILE_SHARE_WRITE | FILE_SHARE_DELETE,
++            NULL, OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, NULL);
++        if (h != INVALID_HANDLE_VALUE) {
++            DWORD n = GetFinalPathNameByHandleW(h, resolved_w, PYI_PATH_MAX, FILE_NAME_NORMALIZED);
++            CloseHandle(h);
++            if (n > 0 && n < PYI_PATH_MAX) {
++                final_w = resolved_w;
++                if (wcsncmp(L"\\\\?\\", final_w, 4) == 0) {
++                    offset = 4;
++                }
++            }
++        }
++    }
+ 
+     /* If path is a symbolic link, resolve it */
+-    if (pyi_win32_is_symlink(modulename_w)) {
++    if (pyi_win32_is_symlink(final_w + offset)) {
+         wchar_t executable_filename_w[PYI_PATH_MAX];
+-        int offset = 0;
+-
+-        PYI_DEBUG_W(L"LOADER: executable file %ls is a symbolic link - resolving...\n", modulename_w);
++        int link_offset = 0;
++
++        PYI_DEBUG_W(L"LOADER: executable file %ls is a symbolic link - resolving...\n", final_w + offset);
+ 
+         /* Resolve */
+-        if (pyi_win32_realpath(modulename_w, executable_filename_w) < 0) {
+-            PYI_ERROR_W(L"Failed to resolve full path to executable %ls.\n", modulename_w);
++        if (pyi_win32_realpath(final_w + offset, executable_filename_w) < 0) {
++            PYI_ERROR_W(L"Failed to resolve full path to executable %ls.\n", final_w + offset);
+             return -1;
+         }
+ 
+         /* Remove the extended path indicator, to avoid potential issues due
+          * to its appearance in `sys.executable`, `sys._MEIPASS`, etc. */
+         if (wcsncmp(L"\\\\?\\", executable_filename_w, 4) == 0) {
+-            offset = 4;
++            link_offset = 4;
+         }
+ 
+         /* Convert to UTF-8 */
+-        if (!pyi_win32_wcs_to_utf8(executable_filename_w + offset, executable_filename, PYI_PATH_MAX)) {
++        if (!pyi_win32_wcs_to_utf8(executable_filename_w + link_offset, executable_filename, PYI_PATH_MAX)) {
+             PYI_ERROR_W(L"Failed to convert executable path to UTF-8.\n");
+             return -1;
+         }
+     } else {
+         /* Convert to UTF-8 */
+-        if (!pyi_win32_wcs_to_utf8(modulename_w, executable_filename, PYI_PATH_MAX)) {
++        if (!pyi_win32_wcs_to_utf8(final_w + offset, executable_filename, PYI_PATH_MAX)) {
+             PYI_ERROR_W(L"Failed to convert executable path to UTF-8.\n");
+             return -1;
+         }
+     }
+*** End Patch

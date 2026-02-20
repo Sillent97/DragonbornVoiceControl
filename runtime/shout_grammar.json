@@ -1,0 +1,697 @@
+{
+  "DUR_NEH_VIIR": {
+    "en": {
+      "DUR": ["dur", "door", "dor"],
+      "NEH": ["neh", "nav"],
+      "VIIR": ["viir", "air"]
+    },
+    "ru": {
+      "DUR": ["дур", "да", "дор"],
+      "NEH": ["нех", "не", "нэ", "нэх"],
+      "VIIR": ["виер", "вер", "вир"]
+    }
+  },
+
+  "FAAS_RU_MAAR": {
+    "en": {
+      "FAAS": ["faas", "fas", "fa"],
+      "RU": ["ru"],
+      "MAAR": ["maar", "mar", "ma"]
+    },
+    "ru": { "FAAS": ["ваас", "фас"], "RU": ["ру"], "MAAR": ["маар", "мар"] }
+  },
+
+  "FEIM_ZII_GRON": {
+    "en": {
+      "FEIM": ["feim", "faim", "fame", "fine", "frame"],
+      "ZII": ["zii", "zi", "see"],
+      "GRON": ["gron", "gro", "grown"]
+    },
+    "ru": {
+      "FEIM": ["фейм", "флейм", "файм", "файн"],
+      "ZII": ["зи"],
+      "GRON": ["грон"]
+    }
+  },
+
+  "FO_KRAH_DIIN": {
+    "en": {
+      "FO": ["fo", "for"],
+      "KRAH": ["krah", "crap", "crah", "kra"],
+      "DIIN": ["diin", "din", "di", "tea"]
+    },
+    "ru": {
+      "FO": ["фо", "по"],
+      "KRAH": ["крах", "кра"],
+      "DIIN": ["дин", "дииин"]
+    }
+  },
+
+  "FUS_RO_DAH": {
+    "en": {
+      "FUS": ["fus", "fos", "force", "fuse"],
+      "RO": ["ro", "rob"],
+      "DAH": ["dah", "da"]
+    },
+    "ru": { "FUS": ["фус", "фос"], "RO": ["ро"], "DAH": ["да"] }
+  },
+
+  "GAAN_LAH_HAAS": {
+    "en": {
+      "GAAN": ["gaan", "gun", "gan", "gon", "kan"],
+      "LAH": ["lah", "la"],
+      "HAAS": ["haas", "has", "haf"]
+    },
+    "ru": {
+      "GAAN": ["гаан", "гун", "ган"],
+      "LAH": ["ла", "лах"],
+      "HAAS": ["хаас", "хас"]
+    }
+  },
+
+  "GOL_HAH_DOV": {
+    "en": {
+      "GOL": ["gol", "goll", "guhl"],
+      "HAH": ["hah", "ha", "haa", "hahh"],
+      "DOV": ["dov", "dove", "dof"]
+    },
+    "ru": {
+      "GOL": ["гол", "гёл", "кол", "гал", "гёль", "аль"],
+      "HAH": ["хах", "ха", "хаа"],
+      "DOV": ["дов", "до", "дав"]
+    }
+  },
+
+  "HUN_KAAL_ZOOR": {
+    "en": {
+      "HUN": ["hun", "han"],
+      "KAAL": ["kaal", "kal"],
+      "ZOOR": ["zoor", "zoo"]
+    },
+    "ru": {
+      "HUN": ["хун", "хан", "хаан", "кхан"],
+      "KAAL": ["каал", "кал"],
+      "ZOOR": ["зур", "зоор"]
+    }
+  },
+
+  "IIZ_SLEN_NUS": {
+    "en": { "IIZ": ["iiz", "is"], "SLEN": ["slen", "slam"], "NUS": ["nus"] },
+    "ru": {
+      "IIZ": ["ииз", "из", "ис"],
+      "SLEN": ["лен", "слен", "слэм", "слэн"],
+      "NUS": ["нус", "ус"]
+    }
+  },
+
+  "JOOR_ZAH_FRUL": {
+    "en": {
+      "JOOR": ["joor", "jor", "jar", "jaw"],
+      "ZAH": ["zah", "za", "saw"],
+      "FRUL": ["frul", "frol", "frill", "through", "afro"]
+    },
+    "ru": {
+      "JOOR": ["джор", "ор", "джо"],
+      "ZAH": ["за"],
+      "FRUL": ["фрул", "фру"]
+    }
+  },
+
+  "KAAN_DREM_OV": {
+    "en": {
+      "KAAN": ["kaan", "can", "con", "gon", "gone"],
+      "DREM": ["drem", "dream", "rim", "trim"],
+      "OV": ["ov", "ove"]
+    },
+    "ru": {
+      "KAAN": ["каан", "кан", "ган", "гаан"],
+      "DREM": ["дрем", "дрэм", "брем", "брэ", "бре"],
+      "OV": ["ов", "оф"]
+    }
+  },
+
+  "KRII_LUN_AUS": {
+    "en": {
+      "KRII": ["gre", "gri", "kree", "cri", "tree"],
+      "LUN": ["lun", "loon", "lawn", "lon"],
+      "AUS": ["aus", "ouse", "out", "us"]
+    },
+    "ru": {
+      "KRII": ["гри", "крии", "кри", "при", "пи"],
+      "LUN": ["лун", "лон"],
+      "AUS": ["аус", "алс", "ас", "нас"]
+    }
+  },
+
+  "LAAS_YAH_NIR": {
+    "en": {
+      "LAAS": ["laas", "las"],
+      "YAH": ["yah", "ya"],
+      "NIR": ["nir", "nier"]
+    },
+    "ru": {
+      "LAAS": ["лас", "лаас"],
+      "YAH": ["йа", "я"],
+      "NIR": ["нир", "ниер"]
+    }
+  },
+
+  "LOK_VAH_KOOR": {
+    "en": {
+      "LOK": ["lok", "lock", "loke"],
+      "VAH": ["vah", "va"],
+      "KOOR": ["koor", "kor", "core"]
+    },
+    "ru": {
+      "LOK": ["лок", "ок"],
+      "VAH": ["ва", "вах", "ваа"],
+      "KOOR": ["кур", "кор", "коор", "куур"]
+    }
+  },
+
+  "MID_VUR_SHAAN": {
+    "en": {
+      "MID": ["mid", "need", "mead"],
+      "VUR": ["vur", "fur", "ver"],
+      "SHAAN": ["shaan", "shot"]
+    },
+    "ru": {
+      "MID": ["мид", "мит", "мет"],
+      "VUR": ["вур", "вор"],
+      "SHAAN": ["шаан", "шан", "ша"]
+    }
+  },
+
+  "MUL_QAH_DIIV": {
+    "en": {
+      "MUL": ["mul", "mall"],
+      "QAH": ["qah", "qa"],
+      "DIIV": ["diiv", "di"]
+    },
+    "ru": {
+      "MUL": ["мул", "мол"],
+      "QAH": ["ках", "каа"],
+      "DIIV": ["диив", "див", "ди"]
+    }
+  },
+
+  "OD_AH_VIING": {
+    "en": { "OD": ["od"], "AH": ["ah"], "VIING": ["viing", "vi", "vii"] },
+    "ru": {
+      "OD": ["од", "от", "о"],
+      "AH": ["а", "ах", "дах", "да", "ода"],
+      "VIING": ["вииң", "виинг", "вин", "вейн", "вен"]
+    }
+  },
+
+  "RAAN_MIR_TAH": {
+    "en": { "RAAN": ["raan", "ron"], "MIR": ["mir", "me"], "TAH": ["tah"] },
+    "ru": {
+      "RAAN": ["ран", "раа", "раан"],
+      "MIR": ["мир", "ми"],
+      "TAH": ["тах", "таа", "та"]
+    }
+  },
+
+  "RII_VAAZ_ZOL": {
+    "en": {
+      "RII": ["rii", "he"],
+      "VAAZ": ["vaaz", "vas"],
+      "ZOL": ["zol", "zo"]
+    },
+    "ru": {
+      "RII": ["рии", "ри", "ре", "рее"],
+      "VAAZ": ["вааз", "ваз", "вас"],
+      "ZOL": ["зол", "зул"]
+    }
+  },
+
+  "STRUN_BAH_QO": {
+    "en": { "STRUN": ["strun", "drawn"], "BAH": ["bah"], "QO": ["qo", "qu"] },
+    "ru": {
+      "STRUN": ["струн", "строн"],
+      "BAH": ["ба", "бах"],
+      "QO": ["ко", "къо", "ку"]
+    }
+  },
+
+  "SU_GRAH_DUN": {
+    "en": { "SU": ["su"], "GRAH": ["grah", "gra", "cra"], "DUN": ["dun"] },
+    "ru": {
+      "SU": ["су"],
+      "GRAH": ["грах", "крах", "кра", "гра"],
+      "DUN": ["дун"]
+    }
+  },
+
+  "TIID_KLO_UL": {
+    "en": {
+      "TIID": ["tiid", "tid", "id"],
+      "KLO": ["klo", "clo"],
+      "UL": ["ul", "all"]
+    },
+    "ru": { "TIID": ["тид", "тит"], "KLO": ["кло"], "UL": ["ул"] }
+  },
+
+  "VEN_GAAR_NOS": {
+    "en": {
+      "VEN": ["ven", "then", "than", "the"],
+      "GAAR": ["gaar", "gar", "car"],
+      "NOS": ["nos", "nose", "noss"]
+    },
+    "ru": {
+      "VEN": ["вен", "бен", "вэн", "ван"],
+      "GAAR": ["каар", "кар", "га", "гаар", "гар"],
+      "NOS": ["нос", "ноз", "нус"]
+    }
+  },
+
+  "WULD_NAH_KEST": {
+    "en": {
+      "WULD": ["wuld", "would", "wood", "wold", "bold", "boyd"],
+      "NAH": ["nah", "na"],
+      "KEST": ["kest", "cast", "test"]
+    },
+    "ru": {
+      "WULD": ["вулд", "вуду", "буду", "вольт", "вульт", "воль"],
+      "NAH": ["на"],
+      "KEST": ["кест", "хест", "крест"]
+    }
+  },
+
+  "YOL_TOOR_SHUL": {
+    "en": {
+      "YOL": ["yol", "yole", "yawl", "yo", "yoh"],
+      "TOOR": ["toor", "tour", "tor"],
+      "SHUL": ["shul", "shool", "shoul"]
+    },
+    "ru": {
+      "YOL": ["йол", "ёл", "ёль", "юл", "йоур", "аль"],
+      "TOOR": ["тур", "тоор", "тор", "то"],
+      "SHUL": ["шул", "шуль", "шун", "шу", "фу"]
+    }
+  },
+
+  "ZUL_MEY_GUT": {
+    "en": {
+      "ZUL": ["zul", "though", "zun", "zone"],
+      "MEY": ["mey", "my"],
+      "GUT": ["gut", "god"]
+    },
+    "ru": {
+      "ZUL": ["сул", "сул", "сол", "суул", "зол"],
+      "MEY": ["мей", "ме", "мый"],
+      "GUT": ["гут"]
+    }
+  },
+
+  "ZUN_HAAL_VIIK": {
+    "en": {
+      "ZUN": ["zun", "zone"],
+      "HAAL": ["haal", "ha"],
+      "VIIK": ["viik", "week"]
+    },
+    "ru": {
+      "ZUN": ["зон", "зо", "зон", "джун", "зоон"],
+      "HAAL": ["хаал", "хал", "ха"],
+      "VIIK": ["виик", "вик", "ви"]
+    }
+  },
+
+  "FUS_KLO_UL": {
+    "en": {
+      "FUS": ["fus", "foos", "fuss"],
+      "KLO": ["klo", "claw", "clo", "cloah"],
+      "UL": ["ul", "ool", "uhl"]
+    },
+    "ru": {
+      "FUS": ["фус", "фуз", "фос"],
+      "KLO": ["кло", "клау", "клоу", "клоа"],
+      "UL": ["ул", "уул"]
+    }
+  },
+
+  "DUR_HAH_DOV": {
+    "en": {
+      "DUR": ["dur", "door", "dor"],
+      "HAH": ["hah", "ha", "haa", "hahh"],
+      "DOV": ["dov", "dove", "dof"]
+    },
+    "ru": {
+      "DUR": ["дур", "да", "дор"],
+      "HAH": ["хах", "ха", "хаа"],
+      "DOV": ["дов", "до", "дав"]
+    }
+  },
+
+  "FAAS_ZAH_FRUL": {
+    "en": {
+      "FAAS": ["faas", "fas", "fa"],
+      "ZAH": ["zah", "za", "saw"],
+      "FRUL": ["frul", "frol", "frill", "through", "afro"]
+    },
+    "ru": {
+      "FAAS": ["ваас", "фас"],
+      "ZAH": ["за"],
+      "FRUL": ["фрул", "фру"]
+    }
+  },
+
+  "FEIM_KRAH_DIIN": {
+    "en": {
+      "FEIM": ["feim", "faim", "fame", "fine", "frame"],
+      "KRAH": ["krah", "crap"],
+      "DIIN": ["diin", "din", "di", "tea"]
+    },
+    "ru": {
+      "FEIM": ["фейм", "флейм", "файм", "файн"],
+      "KRAH": ["крах", "кра"],
+      "DIIN": ["дин", "дииин"]
+    }
+  },
+
+  "FIIK_LO_SAH": {
+    "en": {
+      "FIIK": ["fiik", "feek", "fick", "fic"],
+      "LO": ["lo", "low"],
+      "SAH": ["sah", "saw", "saa", "ah"]
+    },
+    "ru": {
+      "FIIK": ["фиик", "фииг", "фиг", "фик"],
+      "LO": ["ло", "лоу"],
+      "SAH": ["сах", "сау", "саа", "ah"]
+    }
+  },
+
+  "FIIK_ZII_GRON": {
+    "en": {
+      "FIIK": ["fiik", "feek", "fick", "fic"],
+      "ZII": ["zii", "zi", "see"],
+      "GRON": ["gron", "gro", "grown"]
+    },
+    "ru": {
+      "FIIK": ["фиик", "фииг", "фиг", "фик"],
+      "ZII": ["зи"],
+      "GRON": ["грон"]
+    }
+  },
+
+  "FO_MEY_GUT": {
+    "en": {
+      "FO": ["fo", "for"],
+      "MEY": ["mey", "my"],
+      "GUT": ["gut", "god"]
+    },
+    "ru": {
+      "FO": ["фо", "по"],
+      "MEY": ["мей", "ме", "мый"],
+      "GUT": ["гут"]
+    }
+  },
+
+  "GAAN_VUR_SHAAN": {
+    "en": {
+      "GAAN": ["gaan", "gun", "gan", "gon", "kan"],
+      "VUR": ["vur", "fur", "ver"],
+      "SHAAN": ["shaan", "shot"]
+    },
+    "ru": {
+      "GAAN": ["гаан", "гун", "ган"],
+      "VUR": ["вур", "вор"],
+      "SHAAN": ["шаан", "шан", "ша"]
+    }
+  },
+
+  "GOL_YAH_NIR": {
+    "en": {
+      "GOL": ["gol", "goll", "guhl"],
+      "YAH": ["yah", "ya"],
+      "NIR": ["nir", "nier"]
+    },
+    "ru": {
+      "GOL": ["гол", "гёл", "кол", "гал", "гёль", "аль"],
+      "YAH": ["йа", "я"],
+      "NIR": ["нир", "ниер"]
+    }
+  },
+
+  "HUN_HAAL_VIIK": {
+    "en": {
+      "HUN": ["hun", "han"],
+      "HAAL": ["haal", "ha"],
+      "VIIK": ["viik", "week"]
+    },
+    "ru": {
+      "HUN": ["хун", "хан", "хаан", "кхан"],
+      "HAAL": ["хаал", "хал", "ха"],
+      "VIIK": ["виик", "вик", "ви"]
+    }
+  },
+
+  "IIZ_AH_VIING": {
+    "en": {
+      "IIZ": ["iiz", "is"],
+      "AH": ["ah"],
+      "VIING": ["viing", "vi", "vii"]
+    },
+    "ru": {
+      "IIZ": ["ииз", "из", "ис"],
+      "AH": ["а", "ах", "дах", "да", "ода"],
+      "VIING": ["вииң", "виинг", "вин", "вейн", "вен"]
+    }
+  },
+
+  "JOOR_DREM_OV": {
+    "en": {
+      "JOOR": ["joor", "jor", "jar", "jaw"],
+      "DREM": ["drem", "dream", "rim", "trim"],
+      "OV": ["ov", "ove"]
+    },
+    "ru": {
+      "JOOR": ["джор", "ор", "джо"],
+      "DREM": ["дрем", "дрэ", "дем", "брем", "брэ", "бре"],
+      "OV": ["ов", "оф"]
+    }
+  },
+
+  "KAAN_GRAH_DUN": {
+    "en": {
+      "KAAN": ["kaan", "can", "con", "gon", "gone"],
+      "GRAH": ["grah", "gra", "cra"],
+      "DUN": ["dun"]
+    },
+    "ru": {
+      "KAAN": ["каан", "кан", "ган", "гаан"],
+      "GRAH": ["грах", "крах", "кра", "гра"],
+      "DUN": ["дун"]
+    }
+  },
+
+  "KRII_LO_SAH": {
+    "en": {
+      "KRII": ["gre", "gri", "kree", "cri", "tree"],
+      "LO": ["low", "lo"],
+      "SAH": ["sah", "saw", "saa", "ah"]
+    },
+    "ru": {
+      "KRII": ["гри", "крии", "кри", "при", "пи"],
+      "LO": ["ло", "лоу"],
+      "SAH": ["сах", "сау", "саа", "ах"]
+    }
+  },
+
+  "LAAS_RO_DAH": {
+    "en": {
+      "LAAS": ["laas", "las"],
+      "RO": ["ro", "rob"],
+      "DAH": ["dah", "da"]
+    },
+    "ru": {
+      "LAAS": ["лас", "лаас"],
+      "RO": ["ро"],
+      "DAH": ["да"]
+    }
+  },
+
+  "LOK_BAH_QO": {
+    "en": {
+      "LOK": ["lok", "lock", "loke"],
+      "BAH": ["bah"],
+      "QO": ["qo", "qu"]
+    },
+    "ru": {
+      "LOK": ["лок", "ок"],
+      "BAH": ["ба", "бах"],
+      "QO": ["ко", "къо", "ку"]
+    }
+  },
+
+  "MID_QUAH_DIIV": {
+    "en": {
+      "MID": ["mid", "need", "mead"],
+      "QUAH": ["qah", "qa"],
+      "DIIV": ["diiv", "di"]
+    },
+    "ru": {
+      "MID": ["мид", "мит", "мет"],
+      "QUAH": ["ках", "каа", "ка"],
+      "DIIV": ["диив", "див", "ди"]
+    }
+  },
+
+  "MUL_NEH_VIIR": {
+    "en": {
+      "MUL": ["mul", "mall"],
+      "NEH": ["neh", "nav"],
+      "VIIR": ["viir", "air"]
+    },
+    "ru": {
+      "MUL": ["мул", "мол"],
+      "NEH": ["нех", "не", "нэ", "нэх"],
+      "VIIR": ["виер", "вер", "вир"]
+    }
+  },
+
+  "OD_VAH_KOOR": {
+    "en": {
+      "OD": ["od"],
+      "VAH": ["vah", "va"],
+      "KOOR": ["koor", "kor", "core"]
+    },
+    "ru": {
+      "OD": ["од", "от", "о"],
+      "VAH": ["ва", "вах", "ваа"],
+      "KOOR": ["кур", "кор", "коор", "куур"]
+    }
+  },
+
+  "RAAN_VAAZ_ZOL": {
+    "en": {
+      "RAAN": ["raan", "ron", "run"],
+      "VAAZ": ["vaaz", "vas"],
+      "ZOL": ["zol", "zo"]
+    },
+    "ru": {
+      "RAAN": ["ран", "раа", "раан"],
+      "VAAZ": ["вааз", "ваз", "вас"],
+      "ZOL": ["зол", "зул"]
+    }
+  },
+
+  "RII_GAAR_NOS": {
+    "en": {
+      "RII": ["rii", "he"],
+      "GAAR": ["gaar", "gar", "car"],
+      "NOS": ["nos", "nose", "noss"]
+    },
+    "ru": {
+      "RII": ["рии", "ри", "ре", "рее"],
+      "GAAR": ["каар", "кар", "га", "гаар", "гар"],
+      "NOS": ["нос", "ноз", "нус"]
+    }
+  },
+
+  "STRUN_SLEN_NUS": {
+    "en": {
+      "STRUN": ["strun", "drawn"],
+      "SLEN": ["slen", "slam"],
+      "NUS": ["nus"]
+    },
+    "ru": {
+      "STRUN": ["струн", "строн"],
+      "SLEN": ["лен", "слен", "слэм", "слэн"],
+      "NUS": ["нус", "ус"]
+    }
+  },
+
+  "SU_RU_MAAR": {
+    "en": {
+      "SU": ["su"],
+      "RU": ["ru"],
+      "MAAR": ["maar", "mar", "ma"]
+    },
+    "ru": {
+      "SU": ["су"],
+      "RU": ["ру"],
+      "MAAR": ["маар", "мар"]
+    }
+  },
+
+  "TIID_MIR_TAH": {
+    "en": {
+      "TIID": ["tiid", "tid", "id"],
+      "MIR": ["mir", "me"],
+      "TAH": ["tah"]
+    },
+    "ru": {
+      "TIID": ["тид", "тит"],
+      "MIR": ["мир", "ми"],
+      "TAH": ["тах", "таа", "та"]
+    }
+  },
+
+  "VEN_LAH_HAAS": {
+    "en": {
+      "VEN": ["ven", "then", "than", "the"],
+      "LAH": ["lah", "la"],
+      "HAAS": ["haas", "has", "haf"]
+    },
+    "ru": {
+      "VEN": ["вен", "бен", "вэн", "ван"],
+      "LAH": ["ла", "лах"],
+      "HAAS": ["хаас", "хас"]
+    }
+  },
+
+  "WULD_TOOR_SHUL": {
+    "en": {
+      "WULD": ["wuld", "would", "wood", "wold", "bold", "boyd"],
+      "TOOR": ["toor", "tour", "tor"],
+      "SHUL": ["shul", "shool", "shoul"]
+    },
+    "ru": {
+      "WULD": ["вулд", "вуду", "буду", "вольт", "вульт", "воль"],
+      "TOOR": ["тур", "тоор", "тор", "то"],
+      "SHUL": ["шул", "шуль", "шун", "шу", "фу"]
+    }
+  },
+
+  "YOL_NAH_KEST": {
+    "en": {
+      "YOL": ["yol", "yole", "yawl", "yo", "yoh"],
+      "NAH": ["nah", "na"],
+      "KEST": ["kest", "cast", "test"]
+    },
+    "ru": {
+      "YOL": ["йол", "ёл", "ёль", "юл", "йоур", "аль"],
+      "NAH": ["на"],
+      "KEST": ["кест", "хест", "крест"]
+    }
+  },
+
+  "ZUL_LUN_AUS": {
+    "en": {
+      "ZUL": ["zul", "though", "zun", "zone"],
+      "LUN": ["lun", "loon", "lawn", "lon"],
+      "AUS": ["aus", "ouse", "out", "us"]
+    },
+    "ru": {
+      "ZUL": ["сул", "сул", "сол", "суул", "зол"],
+      "LUN": ["лун", "лон"],
+      "AUS": ["аус", "алс", "ас", "нас"]
+    }
+  },
+
+  "ZUN_KAAL_ZOOR": {
+    "en": {
+      "ZUN": ["zun", "zone"],
+      "KAAL": ["kaal", "kal"],
+      "ZOOR": ["zoor", "zoo"]
+    },
+    "ru": {
+      "ZUN": ["зон", "зо", "зон", "джун", "зоон"],
+      "KAAL": ["каал", "кал"],
+      "ZOOR": ["зур", "зоор"]
+    }
+  }
+}

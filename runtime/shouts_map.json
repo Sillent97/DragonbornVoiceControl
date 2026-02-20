@@ -1,0 +1,282 @@
+{
+  "FAAS_RU_MAAR": {
+    "name": "Dismay",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0002395A"
+  },
+  "FEIM_ZII_GRON": {
+    "name": "Become Ethereal",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x00032920"
+  },
+  "FO_KRAH_DIIN": {
+    "name": "Frost Breath",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0005D16B"
+  },
+  "FUS_RO_DAH": {
+    "name": "Unrelenting Force",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x00013E07"
+  },
+  "HUN_KAAL_ZOOR": {
+    "name": "Call of Valor",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0005196A"
+  },
+  "IIZ_SLEN_NUS": {
+    "name": "Ice Form",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x00070980"
+  },
+  "JOOR_ZAH_FRUL": {
+    "name": "Dragonrend",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x00044250"
+  },
+  "KAAN_DREM_OV": {
+    "name": "Kyne's Peace",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0007097E"
+  },
+  "KRII_LUN_AUS": {
+    "name": "Marked for Death",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0007097C"
+  },
+  "LAAS_YAH_NIR": {
+    "name": "Aura Whisper",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0007097B"
+  },
+  "LOK_VAH_KOOR": {
+    "name": "Clear Skies",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0003CD34"
+  },
+  "OD_AH_VIING": {
+    "name": "Call Dragon",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x00046B8C"
+  },
+  "RAAN_MIR_TAH": {
+    "name": "Animal Allegiance",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0005FC77"
+  },
+  "STRUN_BAH_QO": {
+    "name": "Storm Call",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0007097D"
+  },
+  "SU_GRAH_DUN": {
+    "name": "Elemental Fury",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x00032921"
+  },
+  "TIID_KLO_UL": {
+    "name": "Slow Time",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x00048AC9"
+  },
+  "WULD_NAH_KEST": {
+    "name": "Whirlwind Sprint",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0002F7BA"
+  },
+  "YOL_TOOR_SHUL": {
+    "name": "Fire Breath",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0003F9EA"
+  },
+  "ZUL_MEY_GUT": {
+    "name": "Throw Voice",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x0007097F"
+  },
+  "ZUN_HAAL_VIIK": {
+    "name": "Disarm",
+    "plugin": "Skyrim.esm",
+    "baseid": "0x00070981"
+  },
+  "DUR_NEH_VIIR": {
+    "name": "Summon Durnehviir",
+    "plugin": "Dawnguard.esm",
+    "baseid": "0x000030D2"
+  },
+  "GAAN_LAH_HAAS": {
+    "name": "Drain Vitality",
+    "plugin": "Dawnguard.esm",
+    "baseid": "0x00008A62"
+  },
+  "RII_VAAZ_ZOL": {
+    "name": "Soul Tear",
+    "plugin": "Dawnguard.esm",
+    "baseid": "0x00007CB6"
+  },
+  "GOL_HAH_DOV": {
+    "name": "Bend Will",
+    "plugin": "Dragonborn.esm",
+    "baseid": "0x000179D8"
+  },
+  "MID_VUR_SHAAN": {
+    "name": "Battle Fury",
+    "plugin": "Dragonborn.esm",
+    "baseid": "0x0002AD09"
+  },
+  "MUL_QAH_DIIV": {
+    "name": "Dragon Aspect",
+    "plugin": "Dragonborn.esm",
+    "baseid": "0x0001DF92"
+  },
+  "VEN_GAAR_NOS": {
+    "name": "Cyclone",
+    "plugin": "Dragonborn.esm",
+    "baseid": "0x000200C0"
+  },
+  "DUR_HAH_DOV": {
+    "name": "Oblivion",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x000CA93C"
+  },
+  "FAAS_ZAH_FRUL": {
+    "name": "Wail of the Banshee",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x000043A8"
+  },
+  "FEIM_KRAH_DIIN": {
+    "name": "Shroud of the Snowfall",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x00001859"
+  },
+  "FIIK_LO_SAH": {
+    "name": "Phantom Decoy",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0002817C"
+  },
+  "FIIK_ZII_GRON": {
+    "name": "Curse",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x000012D7"
+  },
+  "FO_MEY_GUT": {
+    "name": "Shattersphere",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0005EBB6"
+  },
+  "FUS_KLO_UL": {
+    "name": "Earthquake",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x00013CB0"
+  },
+  "GAAN_VUR_SHAAN": {
+    "name": "Lifestream",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x000CA928"
+  },
+  "GOL_YAH_NIR": {
+    "name": "Magnet Pull",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0000AAC5"
+  },
+  "HUN_HAAL_VIIK": {
+    "name": "Shor's Wrath",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0005294A"
+  },
+  "IIZ_AH_VIING": {
+    "name": "Iceborn",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0005EBB5"
+  },
+  "JOOR_DREM_OV": {
+    "name": "Alessia's Love",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0005EBB4"
+  },
+  "KAAN_GRAH_DUN": {
+    "name": "Trueshot",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0001B3DD"
+  },
+  "KRII_LO_SAH": {
+    "name": "Splinter Twins",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x00016D92"
+  },
+  "LAAS_RO_DAH": {
+    "name": "Essence Rip",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0000541C"
+  },
+  "LOK_BAH_QO": {
+    "name": "Stormblast",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0001D462"
+  },
+  "MID_QUAH_DIIV": {
+    "name": "The Conqueror",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x000CA950"
+  },
+  "MUL_NEH_VIIR": {
+    "name": "Kingsbane",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x000CA935"
+  },
+  "OD_VAH_KOOR": {
+    "name": "Wanderlust",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0001FFDE"
+  },
+  "RAAN_VAAZ_ZOL": {
+    "name": "Dance of the Dead",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x000CA951"
+  },
+  "RII_GAAR_NOS": {
+    "name": "Annihilate",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x000CA921"
+  },
+  "STRUN_SLEN_NUS": {
+    "name": "Lightning Shield",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0001AE61"
+  },
+  "SU_RU_MAAR": {
+    "name": "Riftwalk",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x00006F61"
+  },
+  "TIID_MIR_TAH": {
+    "name": "Speak Unto the Stars",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0000D5FC"
+  },
+  "VEN_LAH_HAAS": {
+    "name": "Evocation",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x000CA94F"
+  },
+  "WULD_TOOR_SHUL": {
+    "name": "Armageddon",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x0005294B"
+  },
+  "YOL_NAH_KEST": {
+    "name": "Arcane Helix",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x00020571"
+  },
+  "ZUL_LUN_AUS": {
+    "name": "Jones' Shadow",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x00027BFB"
+  },
+  "ZUN_KAAL_ZOOR": {
+    "name": "Warcry",
+    "plugin": "Thunderchild - Epic Shout Package.esp",
+    "baseid": "0x00004925"
+  }
+}
